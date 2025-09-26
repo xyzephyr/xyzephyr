@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxxephyr
+- 👋 Hi, I’m @xyzephyr
 - 👀 I’m interested in learning more about computer science! I really want to expand my knowledge and find a niche I enjoy in the field.
 - 🌱 I’m currently learning how to integrate machine learning models into real world projects!
 - 💞️ I’m looking to collaborate on anything! I am a recent CS graduate from UC Irvine and I would love to help contribute to anything within my means.
